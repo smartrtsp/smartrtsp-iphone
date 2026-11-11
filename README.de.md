@@ -66,4 +66,4 @@ Aufnahmen werden auf Ihrem Gerät oder, soweit unterstützt, an einem von Ihnen 
 
 ## Weitere Plattformen
 
-[iPad](https://apps.apple.com/us/app/smart-rtsp-ip-camera-viewer/id6759822092) · [Apple TV](https://apps.apple.com/us/app/smart-rtsp-tv-ip-cam-viewer/id6783357198) · [Android-Smartphones und -Tablets](https://play.google.com/store/apps/details?id=com.smartsmart.smartrtsp) · [Android TV und Google TV](https://play.google.com/store/apps/details?id=com.smartsmart.smartrtsp) · [Mac](https://apps.apple.com/us/app/smart-rtsp-pro-ip-cam-viewer/id6759788063?mt=12) · [Windows](https://apps.microsoft.com/store/detail/9NJWJKG6DK11)
+[iPad](https://github.com/smartrtsp/smartrtsp-ipad/blob/main/README.de.md) · [Apple TV](https://github.com/smartrtsp/smartrtsp-tvos/blob/main/README.de.md) · [Android-Smartphones und -Tablets](https://github.com/smartrtsp/smartrtsp-android/blob/main/README.de.md) · [Android TV und Google TV](https://github.com/smartrtsp/smartrtsp-android-tv/blob/main/README.de.md) · [Mac](https://github.com/smartrtsp/smartrtsp-macos/blob/main/README.de.md) · [Windows](https://github.com/smartrtsp/smartrtsp-windows/blob/main/README.de.md)

@@ -66,4 +66,4 @@ Le registrazioni vengono salvate sul dispositivo o in una posizione scelta da te
 
 ## Altre piattaforme
 
-[iPad](https://apps.apple.com/us/app/smart-rtsp-ip-camera-viewer/id6759822092) · [Apple TV](https://apps.apple.com/us/app/smart-rtsp-tv-ip-cam-viewer/id6783357198) · [Telefoni e tablet Android](https://play.google.com/store/apps/details?id=com.smartsmart.smartrtsp) · [Android TV e Google TV](https://play.google.com/store/apps/details?id=com.smartsmart.smartrtsp) · [Mac](https://apps.apple.com/us/app/smart-rtsp-pro-ip-cam-viewer/id6759788063?mt=12) · [Windows](https://apps.microsoft.com/store/detail/9NJWJKG6DK11)
+[iPad](https://github.com/smartrtsp/smartrtsp-ipad/blob/main/README.it.md) · [Apple TV](https://github.com/smartrtsp/smartrtsp-tvos/blob/main/README.it.md) · [Telefoni e tablet Android](https://github.com/smartrtsp/smartrtsp-android/blob/main/README.it.md) · [Android TV e Google TV](https://github.com/smartrtsp/smartrtsp-android-tv/blob/main/README.it.md) · [Mac](https://github.com/smartrtsp/smartrtsp-macos/blob/main/README.it.md) · [Windows](https://github.com/smartrtsp/smartrtsp-windows/blob/main/README.it.md)

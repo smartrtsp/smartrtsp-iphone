@@ -68,4 +68,4 @@ Opnamen worden opgeslagen op je apparaat of op een door jou gekozen locatie, waa
 
 ## Andere platforms
 
-[iPad](https://apps.apple.com/us/app/smart-rtsp-ip-camera-viewer/id6759822092) · [Apple TV](https://apps.apple.com/us/app/smart-rtsp-tv-ip-cam-viewer/id6783357198) · [Android-telefoons en -tablets](https://play.google.com/store/apps/details?id=com.smartsmart.smartrtsp) · [Android TV en Google TV](https://play.google.com/store/apps/details?id=com.smartsmart.smartrtsp) · [Mac](https://apps.apple.com/us/app/smart-rtsp-pro-ip-cam-viewer/id6759788063?mt=12) · [Windows](https://apps.microsoft.com/store/detail/9NJWJKG6DK11)
+[iPad](https://github.com/smartrtsp/smartrtsp-ipad/blob/main/README.nl.md) · [Apple TV](https://github.com/smartrtsp/smartrtsp-tvos/blob/main/README.nl.md) · [Android-telefoons en -tablets](https://github.com/smartrtsp/smartrtsp-android/blob/main/README.nl.md) · [Android TV en Google TV](https://github.com/smartrtsp/smartrtsp-android-tv/blob/main/README.nl.md) · [Mac](https://github.com/smartrtsp/smartrtsp-macos/blob/main/README.nl.md) · [Windows](https://github.com/smartrtsp/smartrtsp-windows/blob/main/README.nl.md)
