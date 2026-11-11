@@ -1,0 +1,69 @@
+# SmartRTSP for iPhone — RTSP & ONVIF IP Camera Viewer
+
+Keep your compatible IP cameras close at hand. SmartRTSP turns your iPhone into a camera viewer for your home, shop or workspace, with live video, camera controls and local recording features.
+
+**[Download from App Store](https://apps.apple.com/us/app/smart-rtsp-ip-camera-viewer/id6759822092)** · [Official website](https://www.smartrtsp.com/)
+
+**Choose your language**
+
+**English** · [Deutsch](./README.de.md) · [Français](./README.fr.md) · [Español](./README.es.md) · [Italiano](./README.it.md) · [Português](./README.pt.md) · [Nederlands](./README.nl.md) · [Polski](./README.pl.md) · [Svenska](./README.sv.md) · [Suomi](./README.fi.md) · [Română](./README.ro.md) · [Русский](./README.ru.md) · [Українська](./README.uk.md) · [Türkçe](./README.tr.md)
+
+Move from a quick camera check to a fullscreen view, review saved events and control supported pan, tilt and zoom cameras from your phone.
+
+## App screenshots
+
+<img src="./images/en/live-view.webp" alt="SmartRTSP — iPhone — Live camera view" width="284">
+<img src="./images/en/camera-controls.webp" alt="SmartRTSP — iPhone — Control compatible cameras" width="284">
+
+## Main features
+
+- **Connect your cameras** — Add compatible RTSP streams or discover ONVIF cameras on your local network.
+- **Choose your view** — Switch between individual camera views and a multi-camera layout that suits your screen.
+- **Record and review** — Save recordings locally and return to important moments in the recording history.
+- **Find useful events** — Configure supported motion, person or sound detection options to help identify moments worth reviewing.
+- **Control compatible cameras** — Use pan, tilt and zoom controls when the camera exposes a supported ONVIF PTZ service.
+- **Use local viewing** — Local camera viewing does not require a SmartRTSP account. Camera sign-in details may still be needed.
+
+## Where SmartRTSP fits
+
+- **Home and entrances** — Check the cameras covering an entrance, driveway or other area around your home.
+- **Shops and reception desks** — Keep an eye on several areas of a small shop or reception space from one screen.
+- **Pets and everyday checks** — Open a compatible camera for a quick look at a pet area or another room.
+
+## Get started
+
+1. Install SmartRTSP from the official store link below.
+2. Connect your device and camera to the same local network, then discover the camera or add its supported stream address.
+3. Enter the camera credentials when needed, open live view and choose the viewing or recording features you want.
+
+## Frequently asked questions
+
+### Which cameras work with SmartRTSP?
+
+The camera or recorder must provide a supported RTSP stream or ONVIF service. Compatibility depends on its model, firmware and enabled settings. PTZ controls also require a compatible camera.
+
+### Do I need a SmartRTSP account?
+
+You can use local camera viewing without a SmartRTSP account. Your camera may require its own username and password.
+
+### Is every feature included in the download?
+
+Trials, Pro features, available purchases and prices vary by platform. Check the app and its official store listing for the current offer. Features such as multiple-camera viewing, recording and detection may require Pro.
+
+### Where are recordings kept?
+
+Recordings are saved on your device or in a location you choose where supported. Optional network services follow the settings you enable.
+
+## Download SmartRTSP
+
+**[Download from App Store](https://apps.apple.com/us/app/smart-rtsp-ip-camera-viewer/id6759822092)**
+
+## Official links
+
+- [Official website](https://www.smartrtsp.com/)
+- [Help and camera guides](https://www.smartrtsp.com/guides/)
+- [Privacy policy](https://www.smartrtsp.com/privacy)
+
+## Other platforms
+
+[iPad](https://apps.apple.com/us/app/smart-rtsp-ip-camera-viewer/id6759822092) · [Apple TV](https://apps.apple.com/us/app/smart-rtsp-tv-ip-cam-viewer/id6783357198) · [Android phones and tablets](https://play.google.com/store/apps/details?id=com.smartsmart.smartrtsp) · [Android TV and Google TV](https://play.google.com/store/apps/details?id=com.smartsmart.smartrtsp) · [Mac](https://apps.apple.com/us/app/smart-rtsp-pro-ip-cam-viewer/id6759788063?mt=12) · [Windows](https://apps.microsoft.com/store/detail/9NJWJKG6DK11)

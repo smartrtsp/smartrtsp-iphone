@@ -1,0 +1,71 @@
+# SmartRTSP voor iPhone — RTSP- en ONVIF-viewer voor IP-camera’s
+
+Houd je compatibele IP-camera’s binnen handbereik. Met SmartRTSP bekijk je op je iPhone camera’s thuis, in je winkel of op je werkplek, met livebeeld, camerabediening en functies voor lokale opnamen.
+
+**[Downloaden via App Store](https://apps.apple.com/us/app/smart-rtsp-ip-camera-viewer/id6759822092)** · [Officiële website](https://www.smartrtsp.com/)
+
+**Kies je taal**
+
+[English](./README.md) · [Deutsch](./README.de.md) · [Français](./README.fr.md) · [Español](./README.es.md) · [Italiano](./README.it.md) · [Português](./README.pt.md) · **Nederlands** · [Polski](./README.pl.md) · [Svenska](./README.sv.md) · [Suomi](./README.fi.md) · [Română](./README.ro.md) · [Русский](./README.ru.md) · [Українська](./README.uk.md) · [Türkçe](./README.tr.md)
+
+Schakel van een snelle controle naar volledig scherm, bekijk opgeslagen gebeurtenissen en bedien ondersteunde camera’s met pan-, kantel- en zoomfuncties vanaf je telefoon.
+
+## Schermafbeeldingen
+
+<img src="./images/en/live-view.webp" alt="SmartRTSP — iPhone — Live camerabeeld" width="284">
+<img src="./images/en/camera-controls.webp" alt="SmartRTSP — iPhone — Bedien compatibele camera’s" width="284">
+
+*Deze schermafbeelding toont de app in het Engels.*
+
+## Belangrijkste functies
+
+- **Verbind je camera’s** — Voeg compatibele RTSP-streams toe of zoek ONVIF-camera’s op je lokale netwerk.
+- **Kies je weergave** — Schakel tussen afzonderlijke camerabeelden en een indeling met meerdere camera’s die bij je scherm past.
+- **Opnemen en terugkijken** — Sla opnamen lokaal op en vind belangrijke momenten terug in de opnamegeschiedenis.
+- **Vind relevante gebeurtenissen** — Stel de ondersteunde opties voor bewegings-, persoons- of geluidsdetectie in om momenten te herkennen die je wilt terugkijken.
+- **Bedien compatibele camera’s** — Gebruik pan-, kantel- en zoomfuncties wanneer de camera een ondersteunde ONVIF PTZ-service aanbiedt.
+- **Lokaal bekijken** — Voor lokaal camerabeeld heb je geen SmartRTSP-account nodig. De camera kan wel om inloggegevens vragen.
+
+## SmartRTSP in de praktijk
+
+- **Thuis en bij de ingang** — Bekijk de camera’s bij een ingang, oprit of andere plek rond je huis.
+- **Winkels en recepties** — Houd verschillende delen van een kleine winkel of receptie vanaf één scherm in de gaten.
+- **Huisdieren en dagelijkse controles** — Open een compatibele camera om snel bij een huisdier of in een andere kamer te kijken.
+
+## Aan de slag
+
+1. Installeer SmartRTSP via de officiële winkellink hieronder.
+2. Verbind je apparaat en camera met hetzelfde lokale netwerk. Zoek vervolgens de camera of voeg het ondersteunde streamadres toe.
+3. Voer zo nodig de inloggegevens van de camera in, open het livebeeld en kies de gewenste kijk- of opnamefuncties.
+
+## Veelgestelde vragen
+
+### Welke camera’s werken met SmartRTSP?
+
+De camera of recorder moet een ondersteunde RTSP-stream of ONVIF-service aanbieden. Compatibiliteit hangt af van het model, de firmware en de ingeschakelde instellingen. Ook voor PTZ-bediening is een compatibele camera nodig.
+
+### Heb ik een SmartRTSP-account nodig?
+
+Je kunt lokale camerabeelden bekijken zonder SmartRTSP-account. Je camera kan wel een eigen gebruikersnaam en wachtwoord vereisen.
+
+### Zijn alle functies inbegrepen bij de download?
+
+Proefperiodes, Pro-functies, beschikbare aankopen en prijzen verschillen per platform. Bekijk de app en de officiële winkelpagina voor het actuele aanbod. Voor functies zoals meerdere camera’s tegelijk bekijken, opnemen en detectie kan Pro vereist zijn.
+
+### Waar worden opnamen opgeslagen?
+
+Opnamen worden opgeslagen op je apparaat of op een door jou gekozen locatie, waar dit wordt ondersteund. Optionele netwerkdiensten volgen de instellingen die je inschakelt.
+
+## SmartRTSP downloaden
+
+**[Downloaden via App Store](https://apps.apple.com/us/app/smart-rtsp-ip-camera-viewer/id6759822092)**
+
+## Officiële links
+
+- [Officiële website](https://www.smartrtsp.com/)
+- [Hulp en cameragidsen](https://www.smartrtsp.com/guides/)
+- [Privacybeleid](https://www.smartrtsp.com/privacy)
+
+## Andere platforms
+
+[iPad](https://apps.apple.com/us/app/smart-rtsp-ip-camera-viewer/id6759822092) · [Apple TV](https://apps.apple.com/us/app/smart-rtsp-tv-ip-cam-viewer/id6783357198) · [Android-telefoons en -tablets](https://play.google.com/store/apps/details?id=com.smartsmart.smartrtsp) · [Android TV en Google TV](https://play.google.com/store/apps/details?id=com.smartsmart.smartrtsp) · [Mac](https://apps.apple.com/us/app/smart-rtsp-pro-ip-cam-viewer/id6759788063?mt=12) · [Windows](https://apps.microsoft.com/store/detail/9NJWJKG6DK11)
